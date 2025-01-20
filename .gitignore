@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Entorno virtual
+.env
+venv/
+.venv/
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+*.sublime-workspace
