@@ -13,17 +13,14 @@ Holiday.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
-# Incluye los routers (endpoints)
 app.include_router(api_router)
 
 @app.on_event("startup")
 async def on_startup():
-    print("Iniciando proceso en el evento startup...")  # Añadir print al inicio del evento
     db = next(get_db())
     holiday_repo = HolidayRepository()
     holiday_service = HolidayService(holiday_repo, db)
     
-    # Crea un hilo separado para ejecutar el proceso periódicamente sin bloquear la app
     thread = threading.Thread(target=holiday_service.run_periodically)
-    thread.daemon = True  # Esto asegura que el hilo se termine cuando se cierre la aplicación
+    thread.daemon = True 
     thread.start()
