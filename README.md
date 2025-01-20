@@ -49,7 +49,11 @@ agregar o quitar paquetes de requirements.txt. Aplicar migraciones o crear nueva
 
 Una vez que el proyecto esté en funcionamiento, puedes probar los endpoints directamente desde la documentación interactiva de FastAPI.
 
+
+
 ### Acceder a la documentación
 
 1. Asegúrate de que el proyecto esté levantado (`docker-compose up -d`).
 2. Abre tu navegador y accede a: `http://localhost:8000/docs` Desde alli podras interactuar con el endpoint `Holiday`, ingresar los parámetros requeridos y probar las respuestas directamente en la interfaz.
+<img width="1392" alt="Captura de pantalla 2025-01-20 a la(s) 8 53 26 p m" src="https://github.com/user-attachments/assets/c8de4464-27f0-43b2-babc-0909c7c21181" />
+<img width="1062" alt="Captura de pantalla 2025-01-20 a la(s) 8 54 06 p m" src="https://github.com/user-attachments/assets/07707e45-7f55-426c-a427-bd1f76c21f23" />
