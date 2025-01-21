@@ -69,7 +69,6 @@ Una vez que el proyecto esté en funcionamiento, puedes probar los endpoints dir
 
 1. Asegúrate de que el proyecto esté levantado (`docker-compose up -d`).
 2. Abre tu navegador y accede a: `http://localhost:8000/docs` Desde alli podras interactuar con el endpoint `Holiday`, ingresar los parámetros requeridos y probar las respuestas directamente en la interfaz.
-<img width="1392" alt="Captura de pantalla 2025-01-20 a la(s) 8 53 26 p m" src="https://github.com/user-attachments/assets/c8de4464-27f0-43b2-babc-0909c7c21181" />
 <img width="1062" alt="Captura de pantalla 2025-01-20 a la(s) 8 54 06 p m" src="https://github.com/user-attachments/assets/07707e45-7f55-426c-a427-bd1f76c21f23" />
 
 
@@ -79,5 +78,5 @@ Una vez que el proyecto esté en funcionamiento, puedes probar los endpoints dir
 2. Accede a `http://localhost:5050/` y ingresa en el login estos datos: Email: `admin@admin.com`. Contraseña: `admin`.
 3. En el apartado `Servers` click derecho -> `Register` -> `Server` Ingresas en `General` y en `Name` Colocas el nombre que quieras. Luego en el apartado `Connection` los datos a rellenar son lo siguiente: HostName: `store_db`, Username: `user`, Password: `password`
 4. Ahora podras navegar a tu antojo y revisar la base de datos:
-  <img width="991" alt="Captura de pantalla 2025-01-20 a la(s) 11 14 59 p m" src="https://github.com/user-attachments/assets/28d63e53-de23-4bd6-b244-9d91336ed672" />
+  <img width="1440" alt="Captura de pantalla 2025-01-20 a la(s) 11 19 26 p m" src="https://github.com/user-attachments/assets/38936c9c-ed58-4f4b-af1e-97abb601a3f7" />
   <img width="1440" alt="Captura de pantalla 2025-01-20 a la(s) 11 15 53 p m" src="https://github.com/user-attachments/assets/d37b7aca-4bf5-49f0-aca1-4084823cf149" />
