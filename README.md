@@ -48,7 +48,7 @@ Una vez que las imágenes estén construidas, el siguiente paso es levantar los 
 
 #### **2.3. `docker-compose exec store_backend bash`**
 
-##### Para ver el listado de comandos vigentes, escribir dentro de la bash 'dev'
+#### Para ver el listado de comandos vigentes, escribir dentro de la bash 'dev'
 
 Este apartado sirve en caso de que requieran aplicar comandos para:
 agregar o quitar paquetes de requirements.txt. Aplicar migraciones o crear nuevas migraciones.
