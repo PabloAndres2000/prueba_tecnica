@@ -1,3 +1,17 @@
+## Tecnologías Principales
+
+```
+Lenguaje: Python
+
+Framework: FastAPI (alto rendimiento, documentación automática, soporte asincrónico).
+
+ORM: SQLAlchemy (abstracción para consultas SQL, modelado basado en clases).
+
+Infraestructura: Docker (portabilidad, consistencia y despliegue simplificado).
+
+Base de Datos: PostgreSQL (transacciones ACID, seguridad avanzada, extensiones ricas).
+```
+
 ## Descripción del Proyecto
 
 Este proyecto está diseñado para obtener y almacenar feriados en una base de datos. Los feriados se obtienen a través de la API oficial de feriados de Chile: (https://apis.digital.gob.cl/fl/feriados/2024).
