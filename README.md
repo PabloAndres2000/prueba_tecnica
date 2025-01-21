@@ -1,15 +1,15 @@
 ## Stack Tecnologico
 
 ```
-Lenguaje: Python
+Lenguaje: Python.
 
-Framework: FastAPI (alto rendimiento, documentación automática, soporte asincrónico).
+Framework: FastAPI.
 
-ORM: SQLAlchemy (abstracción para consultas SQL, modelado basado en clases).
+ORM: SQLAlchemy.
 
-Infraestructura: Docker (portabilidad, consistencia y despliegue simplificado).
+Infraestructura: Docker.
 
-Base de Datos: PostgreSQL (transacciones ACID, seguridad avanzada, extensiones ricas).
+Base de Datos: PostgreSQL.
 ```
 
 ## Descripción del Proyecto
