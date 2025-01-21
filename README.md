@@ -1,4 +1,4 @@
-## Tecnologías Principales
+## Stack Tecnologico
 
 ```
 Lenguaje: Python
