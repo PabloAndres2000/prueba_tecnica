@@ -18,7 +18,7 @@ Asegúrate de tener instalados los siguientes programas:
 
 ### 1. Crear archivo .env
 
-Debes crear el archivo .env para que funcione el proyecto completo, recuerda revisar el archivo:`.env.template`. Copia y pega en `.env`
+Debes crear el archivo `.env` para que funcione el proyecto completo, recuerda revisar el archivo:`.env.template`. Copia el contenido y dejalo en `.env`
 
 ### 2. Buildear y levantar el proyecto
 
